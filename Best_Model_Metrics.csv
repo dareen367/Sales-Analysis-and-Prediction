@@ -1,0 +1,2 @@
+Best_Model,Accuracy,Accuracy_Percentage,Precision,Recall,F1_Score
+Logistic Regression,0.8093841642228738,80.94,0.8101736972704715,0.7915151515151515,0.8007357449417535
